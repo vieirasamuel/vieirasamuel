@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Samuel Vieira! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/vieira-samuel/)
+
+____
+
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=vieirasamuel&count_private=true)](https://github.com/vieirasamuel)
+
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vieirasamuel&layout=compact)](https://github.com/vieirasamuel)
 
 <!--
 **vieirasamuel/vieirasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
