@@ -1,5 +1,8 @@
 ### Hi there, I'm Samuel Vieira! 👋
 
+#### 🌱 I’m currently learning Typescript, JavaScript, ReactJS, NextJS, NodeJS and Postgres.
+#### 📫 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-samuel)](https://www.linkedin.com/in/vieira-samuel)
 
 ____
