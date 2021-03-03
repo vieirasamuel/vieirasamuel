@@ -4,9 +4,9 @@
 
 ____
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=vieirasamuel&count_private=true)](https://github.com/vieirasamuel)
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=vieirasamuel&count_private=true&show_icons=true&theme=react)](https://github.com/vieirasamuel)
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vieirasamuel&layout=compact)](https://github.com/vieirasamuel)
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vieirasamuel&layout=compact&theme=react)](https://github.com/vieirasamuel)
 
 <!--
 **vieirasamuel/vieirasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
