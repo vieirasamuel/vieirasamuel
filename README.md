@@ -31,6 +31,8 @@ ____
 ### 🌱 I’m currently learning Typescript, JavaScript, ReactJS, NextJS, NodeJS and Postgres.
 ### 📫 How to reach me:
 
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/vieira-samuel)
 [![CodePen Badge](https://img.shields.io/badge/-CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://www.codepen.io/in/vieirasamuel)
 [![GitHub Badge](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://www.github.com/vieirasamuel)
@@ -40,10 +42,12 @@ ____
 ____
 
 <br />
-
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=vieirasamuel&count_private=true&show_icons=true&theme=react)](https://github.com/vieirasamuel)
-
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vieirasamuel&layout=compact&theme=react)](https://github.com/vieirasamuel)
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieirasamuel&layout=compact&theme=react" />
+</p>
+<p align="center">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=vieirasamuel&count_private=true&show_icons=true&theme=react" />
+</p>
 
 <!--
 **vieirasamuel/vieirasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
