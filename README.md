@@ -1,7 +1,4 @@
-# Hi there, I'm Samuel Vieira! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-
-<br />
-
+# Hi there, I'm Samuel Vieira! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 ## Programming Languages and Tools
 ### Front-end
 ![HTML Badge](https://img.shields.io/badge/-HTML%205-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26)
