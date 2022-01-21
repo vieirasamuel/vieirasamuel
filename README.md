@@ -6,7 +6,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?logo=javascript&logoColor=white&style=for-the-badge&labelColor=3178C6)
 ![React Badge](https://img.shields.io/badge/-REACT.JS-61DAFB?logo=REACT&logoColor=black&style=for-the-badge&labelColor=61DAFB)
-![React Badge](https://img.shields.io/badge/-NEXT.JS-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000)
+<!--![Next Badge](https://img.shields.io/badge/-NEXT.JS-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000)-->
 ### Back-end
 ![Node Badge](https://img.shields.io/badge/-NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933)
 ![PostgreSQL Badge](https://img.shields.io/badge/-POSTGRESQL-336791?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=336791)
