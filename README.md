@@ -21,7 +21,7 @@ ____
 ### 📫 How to reach me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/vieira-samuel)
-<!--[![CodePen Badge](https://img.shields.io/badge/-CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://www.codepen.io/vieirasamuel)-->
+[![CodePen Badge](https://img.shields.io/badge/-CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://www.codepen.io/vieirasamuel)
 
 ____
 
